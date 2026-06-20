@@ -1,6 +1,8 @@
 ## Hai
   🌱 Soy Nano, estudiante de programacion de primer semestre del Guayas
+  
   Soy bastante nuevo en la programacion pero no me da miedo avanzar aprendiendo nuevos temas
+  
   Actualmente uso linux-mint pero me pienso cambiar a debian
 
 <!--
