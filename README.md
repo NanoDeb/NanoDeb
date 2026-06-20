@@ -1,7 +1,7 @@
 ## Hai
-🌱 Soy Nano, estudiante de programacion del Guayas
-Soy bastante nuevo en la programacion pero no me da miedo avanzar aprendiendo nuevos temas
-Actualmente uso linux-mint pero me pienso cambiar a debian
+  🌱 Soy Nano, estudiante de programacion de primer semestre del Guayas
+  Soy bastante nuevo en la programacion pero no me da miedo avanzar aprendiendo nuevos temas
+  Actualmente uso linux-mint pero me pienso cambiar a debian
 
 <!--
 **NanoDeb/NanoDeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
